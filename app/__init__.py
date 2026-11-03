@@ -1,0 +1,1 @@
+"""Competitor monitoring document API."""
