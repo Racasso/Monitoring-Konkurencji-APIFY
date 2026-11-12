@@ -362,5 +362,3 @@ Przydatna dokumentacja:
 - [Apify Instagram Scraper — strona aktora](https://apify.com/apify/instagram-scraper)
 - [Apify Instagram Scraper — cennik](https://apify.com/apify/instagram-scraper/pricing)
 - [Apify Python Client — ActorClient](https://docs.apify.com/api/client/python/reference/next/class/ActorClient)
-
-**Do uzupełnienia przed publikacją:** autor lub organizacja, decyzja o licencji i plik LICENSE oraz adres publicznego repozytorium GitHub (brak skonfigurowanego remote). Repozytorium nie zawiera zrzutów ekranu; interaktywną demonstracją API jest /docs po uruchomieniu aplikacji.
